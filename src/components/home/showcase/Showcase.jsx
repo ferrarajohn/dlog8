@@ -126,9 +126,9 @@ const Showcase = () => {
                 </div>
             </div>
 
-            <div className='main-txt'>
-                Purchase and create royalty-linked items! 
-            </div>
+        <div className='main-txt'>
+        	Purchase and create royalty-linked items! 
+        </div>
 
         <div className="second-main-container">
             <div className="flex-container">
