@@ -126,7 +126,7 @@ const Showcase = () => {
                 </div>
                 <div className="image4">
                 <img className="second-item-image"src="https://i.seadn.io/gae/YwG6cplD6vUrJzksp-BXVeYhQfroGPt0OVmXf-6t9dnblRkfgGdj_YUMXlPTqfzWnKwovYHRD3ud0zO_KMcadflBqcBsfdUm6YpOqA?auto=format&w=3840" alt="" />
-                <button class="btn"> <a href="/link"> Link a Code</a></button>
+                <button class="btn"> <a href="/link">Link a Code</a></button>
                 </div>
             </div>
         </div>
